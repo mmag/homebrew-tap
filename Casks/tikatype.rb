@@ -7,5 +7,7 @@ cask "tikatype" do
   desc "Converts text between keyboard layouts"
   homepage "https://github.com/mmag/Tikatype"
 
+  depends_on :macos
+
   app "Tikatype.app"
 end

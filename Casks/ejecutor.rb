@@ -7,5 +7,7 @@ cask "ejecutor" do
   desc "Menu bar app for cleaning and ejecting external drives"
   homepage "https://github.com/mmag/ejecutor"
 
+  depends_on :macos
+
   app "Ejecutor.app"
 end
