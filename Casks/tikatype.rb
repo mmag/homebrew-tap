@@ -1,6 +1,6 @@
 cask "tikatype" do
-  version "1.0.2"
-  sha256 "0629bfab4f0f17eba7800216f55f6b8682b35f207e9dd2269b407b6d29d6f12b"
+  version "1.0.3"
+  sha256 "804338f35d62e760db9bcc987348bf1ece0f93e1ec2d30c4d353565dfeb1bcea"
 
   url "https://github.com/mmag/Tikatype/releases/download/#{version}/Tikatype-#{version}-app.zip"
   name "Tikatype"
