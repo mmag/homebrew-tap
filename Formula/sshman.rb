@@ -1,7 +1,6 @@
 class Sshman < Formula
   desc "Terminal SSH connection manager with Debian-inspired UI"
   homepage "https://github.com/mmag/sshmanager"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
