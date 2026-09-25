@@ -1,6 +1,6 @@
 cask "hagtamp" do
-  version "0.1"
-  sha256 "83e9a1fcf3078fee01f4c4f1314958fe15fc346f5ead4a87549e21ef9e288e34"
+  version "0.1.1"
+  sha256 "fbbb9d4f24401d73483f2e5d5a74528bb83c7b7b309d77d80cb013747e5c5751"
 
   url "https://github.com/mmag/hagtamp/releases/download/v#{version}/Hagtamp-#{version}.zip"
   name "Hagtamp"
