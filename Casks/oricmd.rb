@@ -1,6 +1,6 @@
 cask "oricmd" do
-  version "0.3b"
-  sha256 "bf3c9380d80efb2a00548a2580870c28fd9298b6f2cf883a1813ccbadb539652"
+  version "0.4b"
+  sha256 "4b09bda01ddb2e9bf9123f20cc80456e28966893ec87c5633cdca61cd1525582"
 
   url "https://github.com/mmag/OriCmd/releases/download/v#{version}/OriCmd-#{version}.dmg"
   name "OriCmd"
